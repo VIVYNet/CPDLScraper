@@ -1,1 +1,1 @@
-"D:\Projects\VIVY\VIVYNetToolSuite\CPDLScraper\env\Scripts\python.exe" main.py
+py main.py
