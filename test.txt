@@ -1,0 +1,90 @@
+==Music files==
+{{#Legend:}}
+*{{PostedDate|2006-07-27}} {{CPDLno|12100}} [[Media:Cançionero_Medinaceli_A_bente_y_siete_de_março.pdf|{{pdf}}]] [[Media:Cançionero_Medinaceli_A_bente_y_siete_de_março.mid|{{mid}}]] [[Media:Cançionero_Medinaceli_A_bente_y_siete_de_março.mxl|{{XML}}]] [[Media:Cançionero_Medinaceli_A_bente_y_siete_de_março.mus|{{mus}}]] (Finale 2000)
+{{Editor|Sabine Cassola|2006-07-27}}{{ScoreInfo|A4|3|123}}{{Copy|CPDL}}
+:{{EdNotes|}}
+
+==General Information==
+{{Title|''A bente y siete de março''}}
+
+{{Composer|Anonymous}}
+
+{{Voicing|4|SATB}}
+{{Genre|Secular|Romances}}
+{{Language|Spanish}}
+{{Instruments|A cappella}}
+{{Pub|0|post 1550|in ''[[Cancionero de Medinaceli]]''|ms=ms}}
+{{Descr| }}
+{{#ExtWeb:}}
+==Original text and translations==
+{{top}}
+{{Text|Spanish|
+A veynte y siete de março de la medianoche serìa
+En Barçelona la grande llanto se hazia.
+
+Los gritos llegan al cielo, la gente se amortecìa
+Por Don Manrique de Lara que deste mundo partìa.
+
+Muerto lo traen a su tierra donde bivo sucedìa;
+Su bulto lleva cubierto de muy rica pedrerìa.
+
+Cercado d’escudos, d’armas, de real genalogia,
+De aquellos altos linages donde aquel señor venìa.
+
+De los Manrìquez y Castros el mejor era que avìa,
+De los Infantes de Lara derechamente venìa.
+
+Con èl salen arçobispos con todos la clerezia
+Cavalleros traen sus andas, duques su compañìa.
+
+Lloralo el rey ya la reyna como aquel que les dolìa
+Llora toda la corte, cada qual quien mas podìa.
+
+Quedaron todas las damas sin consuelo nì alegrìa
+Cada uno de los galanes con sus làgrimas dezìa.
+
+« El mejor de los mejores oy nos dexa este dìa »
+Hizo honra a los mejores, a los grandes demasìa.
+
+Parecìa a duque su padre en todo cavallerìa
+Sòlo un consuelo le queda a el que màs le querìa.
+
+Que aunque la vida muriese su memoria quedarìa.
+Pareciòme Barcelona a Troya quando se ardìa.}}
+{{mdl}}
+{{Translation|German|
+Der siebenundzwanzigste März so gegen Mitternacht,
+dem grossen Barcellona, ach, so jähes Klagen gebracht.
+
+ Die Schreie gehen zum Himmel, die Menschen so traurig gemacht,
+weil Don Manrrique de Lara von dieser Welt fortgerafft.
+
+ Tot bringen sie ihn zu seiner Erde, es geschah dort,
+wo ich lebe; seine Gestalt wird bedeckt von feinsten Edelsteinen,
+
+Ringsum Waffenschilder königlichen Stamms,
+jener edlen Geschlechter, denen dieser Herr entsprang.
+
+Derer von Manrique und Lara war er der beste, den sie hatten,
+er stammte direkt von den Infantes de Lara.
+
+Ihn begleiteten Bischöfe samt aller Geistlichkeit,
+Ritter bringen seine Bahre, Herzöge sind sein Geleit.
+
+König und Königin ihn beweinen unter der grössten Pein,
+es weint der ganze Hof, ein jeder soviel er vermag.
+
+Es blieben alle Damen ohne Trost noch Freud';
+ein jeder der Freier sprach unter Tränen:
+
+"Der Edelste der Edelsten scheidet von uns an diesem Tag";
+den Minderen brachte er Ehre, wie auch den Grösseren,
+
+Er glich seinem Vater, dem herzog, in aller Ritterlichkeit;
+nur ein Trost bleibt dem, der am meisten ihn liebte,
+
+Denn, musste sein Leben auch scheiden, seine Erinnerung wird doch bleiben.
+Es schien mir Barcellona wie das lodernde Troya.}}
+{{btm}}
+[[Category:Sheet music]]
+[[Category:Renaissance music]]
