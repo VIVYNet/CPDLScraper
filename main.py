@@ -236,7 +236,7 @@ def scrape(link, text_only=False):
                 # Find a tags with href                
                 for item in tag.find_all('a', href=True):
                     # Append link to download category
-                    downloads[str(cpdl_num)].append(DOMAIN + item.get('href'))        
+                    downloads[str(cpdl_num)].append(item.get('href') if 'http' in item.get('href') else DOMAIN + item.get('href'))        
         
         #
         #   DATA COMPILING
